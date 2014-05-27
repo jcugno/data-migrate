@@ -1,0 +1,4 @@
+
+var migrator = require('./');
+
+migrator();

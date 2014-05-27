@@ -1,0 +1,25 @@
+{
+  "name": "data-migrate",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcugno/data-migrate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcugno/data-migrate/issues"
+  },
+  "homepage": "https://github.com/jcugno/data-migrate",
+  "dependencies": {
+    "async": "^0.9.0",
+    "lodash": "^2.4.1",
+    "mysql": "^2.3.1",
+    "rc": "^0.4.0"
+  }
+}
